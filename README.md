@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shanid</h1>
 <h3 align="center">A passionate frontend/backend developer from India Kerala</h3>
 
-- 🏫 I’m currently studying **Btech + Artificial Intelligence + DataScience**
+- 🏫 I’m currently studying **Btech + Artificial Intelligence + DataScience** at **IIIT Kottayam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shanid1](https://github.com/shanid1)
 

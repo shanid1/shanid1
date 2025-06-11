@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Shanid</h1>
-<h3 align="center">A passionate frontend/backend developer from India Kerala</h3>
+<h3 align="center">A FULL STACK developer from India Kerala</h3>
 
 - 🏫 I’m currently studying **Btech + Artificial Intelligence + DataScience** at **IIIT Kottayam**
 

@@ -4,7 +4,7 @@
 - 🏫 I’m currently studying **Btech + Artificial Intelligence + DataScience** at **IIIT Kottayam**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shanid1](https://github.com/shanid1)
-
+- 🛜 My website [shanid.vercel.app](shanid.verc.app)
 - 📫 How to reach me **shanidktk18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
